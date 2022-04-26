@@ -1,7 +1,6 @@
 - 👋 Hola, soy Juan Sebastian Lopez
 - 👀 Mi interes es porder aprender lo que mas pueda sobre programacion...
 - 🌱 He trabajo pero nada parecio al area de desarrollo apenas estoy empezando mi experiencia
-- 💞️
 - 📫 Pueden contactarme mediante mi correo electronico 
 
 <!---
